@@ -31,7 +31,7 @@ class Formulario extends Component{
         let elemento2 = document.getElementById("hachedos")
         console.log(elemento)
         console.log(elemento2)
-        console.log("*")
+        console.log("*//")
 
         this.intervaloFecha = setInterval(() => {
             this.cambiarFecha()
